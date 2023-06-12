@@ -1,5 +1,5 @@
 Flask
 flask_sqlalchemy
-Gunicorn
+waitress
 requests
 
